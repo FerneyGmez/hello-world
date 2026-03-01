@@ -1,2 +1,2 @@
 # hello-world
-Este repositorio es para practicar el flujo de GitHub
+Soy Ferney Gómez, estudiante de Ciencias de la computación en la Universidad Nacional De Colombia, Sede Manizales.
